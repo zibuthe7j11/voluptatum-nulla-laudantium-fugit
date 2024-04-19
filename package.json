@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@zibuthe7j11/voluptatum-nulla-laudantium-fugit",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/zibuthe7j11/voluptatum-nulla-laudantium-fugit.git"
   },
   "dependencies": {
+    "@ryniaubenpm/beatae-quos-enim-inventore": "^1.0.0",
+    "@ryniaubenpm/eum-dolore-consectetur-suscipit": "^1.0.0",
+    "@ryniaubenpm/voluptate-natus-corrupti-reiciendis": "^1.0.0"
   }
 }
